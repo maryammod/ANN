@@ -27,4 +27,4 @@ find the bes
 t value.
 The accuracy of %100 is achieved by setting the optimum
 value of hyper
-parameters using cross validation metho
+parameters using cross validation methods.
